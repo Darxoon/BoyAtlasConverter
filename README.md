@@ -6,7 +6,7 @@ An image atlas extractor for World of Goo 2
 
 Make sure you have [Python 3](https://www.python.org/) installed. Download the source code and open the BoyAtlasConverter folder in a command line. Run the following:
 
-    python -m pip install -r requirements.txt
+    py -m pip install -r requirements.txt
 
 (if you are on Linux, you can likely skip this step. Should you get an error about PIL not being installed, create and activate a venv first and then run the above command.)
 
